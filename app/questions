@@ -1,0 +1,36 @@
+
+1) Explain REST
+    REST is a style of software architecture defining a set of constraints to be used to create web services.
+
+2) Explain the architectural style for the creation of a web API (client server communication, formatting language, number of servers, etc.)
+    architectural style for API's :
+        -Rest:
+            REST (Representational State Transfer) is an architectural style for services, and as such it defines a set
+            of architectural constraints and agreements. A service, which complies with the REST constraints, is said to be RESTful.
+        -RPC:
+           RPC is an abbreviation for Remote Procedure Call. RPC is an architectural style for distributed systems.
+        -SOAP:
+                SOAP follows the RPC style (see previous section) and exposes procedures as central concepts (e.g. getCustomer).
+                It is standardized by the W3C and is the most widely used protocol for web services. SOAP style architectures are in widespread use.
+        -GraphQL:
+         the philosophy, and framework powering its popular API. More and more tech companies tried GraphQL and adopted it
+         as one of their philosophies for API design.
+3) What are the best practices when deploying an application in the cloud
+        IaaS :Infrastructure as a service s a type of cloud computing service that offers essential compute,
+            storage, and networking resources on demand, on a pay-as-you-go basis. IaaS is one of the four types of cloud services
+        PAAS :
+            Platform as a service is a cloud computing model where a third-party provider delivers hardware and software tools to users over the internet.
+            Usually, these tools are needed for application development. A PaaS provider hosts the hardware and software on its own infrastructure.
+            As a result, PaaS frees developers from having to install in-house hardware and software to develop or run a new application.
+        SAAS :
+            software as a service (SaaS) is a way of delivering applications remotely over the internet instead of locally on machines (known as “on-premise” software)
+
+4) What are your best strength : infra ? DB ? web ?
+Give us detail about it
+        my best strength web ,because I am a computer engineer student specializing in web and internet technology.
+                              all my internships and academic projects are based on web development
+
+5) Among all the projects you have worked on. Which architecture do you enjoy the most? explain why ?
+        i have already made some projects in differents architecture the most that i had enjoyed it's Springboot/Angular
+            because i have an idea about java ,and frontend language like (html,css,js,bootstrap,sass..)
+            and i have worked in many project (workflow,e-commerce,CRUD...)
